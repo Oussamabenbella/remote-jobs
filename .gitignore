@@ -1,0 +1,9 @@
+echo ".venv/
+__pycache__/
+*.sqlite3
+jobs.db
+*.csv
+*.json
+*.log
+.scrapy/
+" > .gitignore
