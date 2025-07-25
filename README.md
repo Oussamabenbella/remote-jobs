@@ -7,10 +7,12 @@ Petit projet **Scrapy + SQLite + Streamlit** qui agrège les offres d’
 - Pipeline **SQLite** — stocke dans `jobs.db`, évite les doublons.
 - **Streamlit** affiche un tableau de bord filtrable (techno, date).
   
-<p align="center">
-  <img src="C:\Users\user\remote-jobs\docs\Capture d’écran 2025-07-25 154559.png" width="600"/>
-  <img src="C:\Users\user\remote-jobs\docs\Capture d’écran 2025-07-25 154646.png" width="600"/>
-</p>
+
+## Aperçu du tableau de bord
+
+![Dashboard Streamlit](docs/screenshot_dashboard.png)
+![Dashboard Streamlit](docs/screenshot_dashboard2.png)
+
 
 ## Installation rapide
 
