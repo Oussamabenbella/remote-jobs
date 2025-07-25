@@ -8,8 +8,8 @@ Petit projet **Scrapy + SQLite + Streamlit** qui agrège les offres d’
 - **Streamlit** affiche un tableau de bord filtrable (techno, date).
   
 <p align="center">
-  <img src="C:\Users\user\Pictures\Capture d’écran 2025-07-25 154559.png" width="600"/>
-  <img src="C:\Users\user\Pictures\Capture d’écran 2025-07-25 154646.png" width="600"/>
+  <img src="C:\Users\user\remote-jobs\docs\Capture d’écran 2025-07-25 154559.png" width="600"/>
+  <img src="C:\Users\user\remote-jobs\docs\Capture d’écran 2025-07-25 154646.png" width="600"/>
 </p>
 
 ## Installation rapide
